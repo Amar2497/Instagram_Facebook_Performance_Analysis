@@ -79,8 +79,3 @@ An A/B test was performed to compare the CTR performance of two ad creatives (Ad
 2. **Optimize Targeting**: Refine your audience targeting to improve CTR.
 3. **Try New Ad Formats**: Consider experimenting with video ads and story ads to see if they perform better than static images.
 
-## How to Run the Notebook
-
-1. **Clone this repository** to your local machine:
-   ```bash
-   git clone https://github.com/your-username/myclientproject.git
